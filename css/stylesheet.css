@@ -5,7 +5,8 @@ h2 {
     color: #50466A
 }
 h1 {
-    color: #272932
+    color: #272932;
+    font-family: Montserrat, sans-serif;
 }
 nav {
     text-align: center;
