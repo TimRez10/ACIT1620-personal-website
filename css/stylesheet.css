@@ -1,17 +1,14 @@
 body {
-    background-color: #9FBBCC
+    background-color: #E5E5DC
 }
 h2 {
-    color: #50466A
+    color: #334259
 }
 h1 {
-    color: #272932;
+    color: #DB504A;
 }
-.index_heading {
-    color: #272932;
 
-}
 nav {
     text-align: center;
-    background-color: lightblue;
+    background-color: #A6Cad4;
 }
