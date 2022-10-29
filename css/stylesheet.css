@@ -15,7 +15,7 @@ article {
     grid-template-columns: 2fr 1fr;
 }
 
-.article-header {
+.grid-top-left {
     grid-column: 1;
 }
 
@@ -42,6 +42,11 @@ article {
     justify-content:center ;
     align-content:space-around;
 }
+
+.grid-image-top-right {
+    grid-column: 2/3;
+}
+
 
 header {
     flex-basis: 100%;
