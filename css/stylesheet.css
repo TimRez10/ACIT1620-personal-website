@@ -38,8 +38,7 @@ article {
     display: flex;
     flex-wrap: wrap;
     background-color:#A6CaD4 ;
-    justify-content:center ;
-    align-content:space-around;
+    flex-direction: column;
 }
 
 .grid-image-top-right {
@@ -48,13 +47,13 @@ article {
 
 
 header {
-    flex-basis: 100%;
+    flex-basis: 100px;
     flex-grow: 1;
     text-align: center;
 }
 
 nav {
-    flex-basis: 100px;
+    flex-basis: 30px;
     flex-grow: 1;
     text-align: center;
 }
