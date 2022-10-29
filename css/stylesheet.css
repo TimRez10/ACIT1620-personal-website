@@ -3,8 +3,16 @@ body {
     color: #334259
 }
 
-h1 {
-    color: #DB504A;
+a:link {
+    color: #334259
+}
+
+a:visited {
+    color: #334259
+}
+
+a:hover {
+    color: #DB504A
 }
 
 article {
