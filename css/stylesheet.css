@@ -15,7 +15,7 @@ a:hover {
     color: #DB504A
 }
 
-article {
+article.index-grid {
     background-color:#EDDDD0 ;
     display: grid;
     flex-wrap: wrap;
@@ -69,4 +69,13 @@ nav {
 footer {
     background-color:#A6CaD4 ;
     text-align: center;
+}
+
+article.courses-grid {
+    background-color:#EDDDD0 ;
+}
+
+article.courses-grid section {
+    border-bottom: 3px solid lightgray;
+    padding-top: 5px;
 }
